@@ -1,0 +1,33 @@
+T6DA4 000:292.366   SEGGER J-Link V7.96j Log File
+T6DA4 000:322.120   DLL Compiled: May 29 2024 15:36:36
+T6DA4 000:322.129   Logging started @ 2024-12-13 06:09
+T6DA4 000:322.135   Process: D:\0Install\Keil\UV4\UV4.exe
+T6DA4 000:322.293 - 322.141ms
+T6DA4 000:333.310 JLINK_SetWarnOutHandler(...)
+T6DA4 000:333.326 - 11.012ms
+T6DA4 000:333.336 JLINK_OpenEx(...)
+T6DA4 000:345.398   
+  ***** Warning: 
+T6DA4 000:345.419   Out of sync , resynchronizing...
+T6DA4 008:346.151   
+  ***** Warning: 
+T6DA4 008:346.185   Out of sync , resynchronizing...
+T6DA4 008:346.285   
+  ***** Warning: 
+T6DA4 008:346.301   Out of sync , resynchronizing...
+T6DA4 008:346.357   
+  ***** Error: 
+T6DA4 008:346.366   Cannot connect to J-Link
+T6DA4 008:346.816 - 8013.473ms returns "Cannot connect to J-Link"
+T6DA4 008:347.213 
+  ***** Warning: 
+T6DA4 008:347.230 API Error: API JLINK_GetHardwareVersion function called before JLINKARM_Open()
+T6DA4 008:347.241 JLINK_GetHardwareVersion()
+T6DA4 008:353.786   
+  ***** Error: 
+T6DA4 008:353.822   Cannot connect to J-Link.
+T6DA4 008:354.015 - 6.772ms
+T6DA4 013:440.376 JLINK_Close()
+T6DA4 013:440.499 - 0.123ms
+T6DA4 013:440.520   
+T6DA4 013:440.526   Closed

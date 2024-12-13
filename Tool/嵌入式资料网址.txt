@@ -1,0 +1,29 @@
+EPS32学习
+	乐鑫官方指南 IDF：https://docs.espressif.com/projects/esp-idf/zh_CN/v5.1/esp32s3/index.html
+	创客 ESP32 简介：https://makeronsite.com/esp32-intro.html#google_vignette
+	RANDOM ESP32 入门：https://randomnerdtutorials.com/getting-started-with-esp32/
+	platformio 使用：https://docs.platformio.org/en/latest/projectconf/index.html
+
+wokwi	（一些特色arduino ESP32 STM32项目例程）
+	https://wokwi.com/arduino
+
+
+产品厂家类
+正点原子
+	论坛：http://www.openedv.com/forum.php
+	资料：http://www.openedv.com/docs/modules/iot/ATK-MW2300ADAS.html
+
+得捷电子	（可以按需求功能找对应传感器型号）
+	https://www.digikey.cn/?utm_source=Bing&utm_medium=cpc&utm_campaign=Bing%20PC%20Brandzone&utm_content=Head%20Section&utm_term=Title
+
+微雪	（很多板子的屏幕例程）卖墨水屏的
+	https://www.waveshare.net/wiki/2.13inch_e-Paper_HAT_(D)
+
+维可思	（产品资料教学）
+	http://wiki.waaax.cn/boards/ESP32/ESP32-LVGL%E5%BC%80%E5%8F%91%E6%9D%BF.html
+
+北科芯域产品资料	（包括一些传感器资料 和 驱动开发工具）
+	https://telesky.yuque.com/bdys8w/01/qiyzczoxb58nrqx0
+
+
+
